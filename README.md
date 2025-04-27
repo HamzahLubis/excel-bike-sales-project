@@ -1,8 +1,10 @@
-![Excel Dashboard Project](https://img.shields.io/badge/Project-Excel%20Dashboard-blue)
+![Excel Project](https://img.shields.io/badge/Project-Excel%20Dashboard-blue)
+![Visualization](https://img.shields.io/badge/Visualization-Dashboard-yellow)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 # 🚲 Excel Bike Sales Project
-Welcome to the **Excel Bike Sales Project** repository
-An interactive Excel dashboard designed to analyze bike purchase behavior based on customer demographics, income, and commute patterns.
+Welcome to the **Excel Bike Sales Project** repository!
+<br>An interactive Excel dashboard designed to analyze bike purchase behavior based on customer demographics, income, and commute patterns.
 
 ---
 ## 📖 Project Overview
@@ -32,7 +34,7 @@ It covers data preparation, analysis, and visualization to support marketing and
 
 ---
 ## 📈 Dashboard Preview
-![dashboard](https://github.com/user-attachments/assets/f9cb2ff7-2adc-457c-b2a0-d1a8f3b68729)
+![dashboard-demo](https://github.com/user-attachments/assets/9e43ce08-f144-48f8-95c4-bb1e8b9ab010)
 
 ---
 ## 🧬 Tools Used
@@ -59,6 +61,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 Hi there! I'm **Muhammad Hamzah Syafiq Lubis**. I’m a passionate Industrial Engineer specializing in process improvement!
 
-Let's stay in touch! Feel free to connect with me on LinkedIn:
+Let's stay in touch! Feel free to connect with me on:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mhamzahsyafiqlubis)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mhamzahsyafiqlubis/) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:m.hamzah.syafiq@gmail.com)
