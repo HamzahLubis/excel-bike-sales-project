@@ -1,4 +1,6 @@
-# Excel Bike Sales Project
+![Excel Dashboard Project](https://img.shields.io/badge/Project-Excel%20Dashboard-blue)
+
+# 🚲 Excel Bike Sales Project
 Welcome to the **Excel Bike Sales Project** repository
 An interactive Excel dashboard designed to analyze bike purchase behavior based on customer demographics, income, and commute patterns.
 
